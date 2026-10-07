@@ -21,5 +21,5 @@ Predicts a grammar score (0-5) from 45-60 second spoken audio clips.
 - Run on Kaggle with GPU (T4) and internet on.
 
 ## Files
-- `shl_grammar_scoring_v3.ipynb`: full notebook with code, report and results.
+- `notebook08c0f0e677.ipynb`: full notebook with code, report and results.
 - `submission.csv`: predictions for the test set.
